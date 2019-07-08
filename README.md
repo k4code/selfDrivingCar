@@ -34,6 +34,10 @@ After finishing the above video read the article [How Does a Self-Driving Car Se
 
 If your have little more stamina left in your body do read [Self driving cars: From A to Z(Module 1) — 1 (Computer vision fundamentals) ](https://medium.com/autonomous-machines/self-driving-cars-from-a-to-z-module-1-1-91d7f3cd5ac4)
 
+=======It should be perfectly normal for you to not understand the computer visions fundamentals the first time you read it. But try to make atleast 10-40% sense out of the text you read=======.
+
+Dont worry if it bounced over your brain, because we are going to cover all the computer vision related topic needed to us in this Self
+ Driving Car course.
 
 
 
