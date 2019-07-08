@@ -14,11 +14,13 @@ By joining this course I will assume that you already have basic knowledge of py
 
 # Month 1 
 
+
 # Day-1
 
   Start by watching this animated video https://www.youtube.com/watch?v=gEy91PGGLR0 by Thomas Schwenke , his video explains much needed information about self driving cars.
   
 His animation explains the basic operation of self-driving vehicles.
+
 Contents:
 
 1) Sensors (radar, camera, LIDAR, ultrasonic) 
@@ -28,6 +30,7 @@ Contents:
 5) Odometric data and sensors 
 6) Processors (chips) for data fusion
 
+After finishing the above video read the article [How Does a Self-Driving Car See?](https://blogs.nvidia.com/blog/2019/04/15/how-does-a-self-driving-car-see/)
 
 
 
